@@ -1,0 +1,35 @@
+body{
+    height: 2000px;
+}
+
+.b{
+    border:none;
+    font-size: 15px;
+    padding: 10px;
+    background-color: yellow;
+    cursor:pointer;
+}
+
+.cambio-color{
+    background-color: black;
+    color:white;
+}
+
+
+.caja{
+    background-color: orange;
+    width: 500px;
+    height: 300px;
+}
+
+.negro{
+    background-color: black;
+}
+
+.rosado{
+    background-color: pink;
+}
+
+.seccion{
+    color:red;
+}
